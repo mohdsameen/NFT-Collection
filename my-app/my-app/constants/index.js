@@ -582,4 +582,4 @@ export const abi = [
   }
 ]
 
-export const NFT_CONTRACT_ADDRESS = 0x0c452faa2d00628540C4F0F36d7B84baF1f1cbAC
+export const NFT_CONTRACT_ADDRESS = 0xdddc7b9e361ee884a7d65603a7b1ba311cba3949
